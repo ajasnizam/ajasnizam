@@ -1,3 +1,3 @@
 - 👋 Hi, I’m ajas
 - 👀 I’m interested in ... Bug bounty & social media
-- 🌱 I’m currently learning Engineering studies
+- 🌱 I’m currently pursuing my Engineering studies
