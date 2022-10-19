@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/ajasnizam07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajasnizam07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajas nizam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajas nizam" height="30" width="40" /></a>
-<a href="https://fb.com/ajas.nizam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajas.nizam" height="30" width="40" /></a>
 <a href="https://instagram.com/ajas_nizam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajas_nizam" height="30" width="40" /></a>
 </p>
 
