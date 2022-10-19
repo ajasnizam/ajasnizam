@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajas</h1>
+<h1 align="center">Hi👋, I'm Ajas</h1>
 <h3 align="center">A student who is passionate about tech</h3>
 
 - 🌱 I’m currently learning **BTech CS**
