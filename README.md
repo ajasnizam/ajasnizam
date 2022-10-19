@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajas</h1>
 <h3 align="center">A student who is passionate about tech</h3>
 
-- 🌱 I’m currently learning **Btech CS**
+- 🌱 I’m currently learning **BTech CS**
 
-- 👨‍💻 All of my projects are available at (https://ajasnizam.carrd.co/ , https://ajasnizam.github.io/ui-practise/)
+- 👨‍💻 My projects (https://ajasnizam.carrd.co/ , https://ajasnizam.github.io/ui-practise/)
 
 - 📫 How to reach me **ajasnizam04@gmail.com**
 
