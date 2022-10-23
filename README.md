@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ajasnizam04@gmail.com**
 
-- ⚡ Fun fact **NOTHING :)**
+- ⚡ Fun fact **NOTHING : )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
