@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **BTech CS**
 
-- 👨‍💻 My projects (https://ajasnizam.carrd.co/ , https://ajasnizam.github.io/ui-practise/)
+- 👨‍💻 My projects (https://ajasnizam.carrd.co/ , https://ajasnizam.github.io/ui-practise/ , https://ajas-nizam.carrd.co/)
 
 - 📫 How to reach me **ajasnizam04@gmail.com**
 
