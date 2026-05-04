@@ -5,9 +5,9 @@
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech Computer Science student  
-- 💡 Interested in **Web Development, Cybersecurity & AI-based Systems**  
-- 🌱 Currently learning **Data Structures, Python & Modern Web Technologies**  
-- 🚀 Working on real-world projects to improve practical skills  
+- 💡 Interested in **Web Development, Cybersecurity & AI Systems**  
+- 🌱 Currently learning **Data Structures, Python & Modern Web Tech**  
+- 🚀 Building projects to improve real-world skills  
 
 ---
 
@@ -26,13 +26,13 @@
 ### 🌐 Connect with Me
 <p align="left">
 <a href="https://twitter.com/ajasnizam07" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/ajas-nizam" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 <a href="https://instagram.com/ajas_nizam" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 </p>
 
@@ -51,12 +51,11 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ajasnizam&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajasnizam&layout=compact&theme=tokyonight" />
-</p>
+![Ajas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajasnizam&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajasnizam&layout=compact&theme=tokyonight)
 
 ---
 
 ### ⚡ Fun Fact
-> I enjoy exploring new technologies and turning ideas into real-world projects 🚀
+> I enjoy building things and exploring new technologies 🚀
