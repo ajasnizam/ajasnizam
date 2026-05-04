@@ -46,9 +46,6 @@
 
 ### 📊 GitHub Stats
 
-<!-- Main Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajasnizam&show_icons=true&theme=tokyonight)
-
 <!-- Backup Stats (Alternative API) -->
 ![GitHub Stats Backup](https://github-readme-streak-stats.herokuapp.com/?user=ajasnizam&theme=tokyonight)
 
