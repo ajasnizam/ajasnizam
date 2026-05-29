@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajas Nizam</h1>
-<h3 align="center">B.Tech Computer Science Student | Tech Enthusiast | Aspiring Developer</h3>
+<h3[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=100&color=B5B5B5&center=true&width=435&lines=Computer+Science+Engineer;Cybersecurity+Enthusiast;Aspiring+Web+Developer)](https://git.io/typing-svg)</h3>
 
 ---
 
@@ -12,9 +12,9 @@
 ---
 
 ### 🔗 Portfolio & Projects
-- 🌐 https://ajasnizam.carrd.co/  
 - 💻 https://ajasnizam.github.io/ui-practise/  
-- 📁 https://ajas-nizam.carrd.co/  
+- 📁 https://ajas-nizam.carrd.co/
+- 🌐 https://ajasnizam.carrd.co/  
 
 ---
 
@@ -42,18 +42,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<!-- Backup Stats (Alternative API) -->
-![GitHub Stats Backup](https://github-readme-streak-stats.herokuapp.com/?user=ajasnizam&theme=tokyonight)
-
-
----
-
-### 🔥 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajasnizam&theme=tokyo-night)
 
 ---
 
