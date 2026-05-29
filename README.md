@@ -49,8 +49,6 @@
 <!-- Backup Stats (Alternative API) -->
 ![GitHub Stats Backup](https://github-readme-streak-stats.herokuapp.com/?user=ajasnizam&theme=tokyonight)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajasnizam&layout=compact&theme=tokyonight)
 
 ---
 
