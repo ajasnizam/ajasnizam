@@ -4,9 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&pause=100&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Cybersecurity+Enthusiast;Aspiring+Web+Developer" alt="Typing SVG" />
   </a>
 </h3>
-
 ---
-
 ### 👨‍💻 About Me
 - 🎓 B.Tech Computer Science student  
 - 💡 Interested in **Web Development, Cybersecurity & AI Systems**  
