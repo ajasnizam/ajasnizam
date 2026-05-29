@@ -22,9 +22,11 @@
 
 ---
 
-### 📫 Contact Me
-- 📧 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ajasnizam04@gmail.com">ajasnizam04@gmail.com</a>
+### 📫 Contact Me 
 
+- 📧 **ajasnizam04@gmail.com**
+
+  
 ---
 
 ### 🌐 Connect with Me
