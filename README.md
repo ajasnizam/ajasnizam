@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajas Nizam</h1>
-<h3[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=100&color=B5B5B5&center=true&width=435&lines=Computer+Science+Engineer;Cybersecurity+Enthusiast;Aspiring+Web+Developer)](https://git.io/typing-svg)</h3>
+<h3<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=100&color=B5B5B5&center=true&width=435&lines=Computer+Science+Engineer;Cybersecurity+Enthusiast;Aspiring+Web+Developer" alt="Typing SVG" /></a></h3>
 
 ---
 
