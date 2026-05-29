@@ -23,7 +23,7 @@
 ---
 
 ### 📫 Contact Me
-- 📧 **ajasnizam04@gmail.com**
+- 📧 <a href="mailto:ajasnizam04@gmail.com">ajasnizam04@gmail.com</a>
 
 ---
 
