@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🎓 B.Tech Computer Science student  
 - 💡 Interested in **Web Development, Cybersecurity & AI Systems**  
-- 🌱 Currently learning **Python,Pentesting & Modern Web Tech**  
+- 🌱 Currently learning **Network, Data analytics, Pentesting & Modern Web Tech**  
 - 🚀 Building real-world projects  
 
 ---
