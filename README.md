@@ -16,7 +16,7 @@
 ---
 
 ### 🔗 Portfolio & Projects
-- 💻 https://ajasnizam.github.io/ui-practise/  
+- 💻 https://ajasnizam.github.io/ui-practice/
 - 📁 https://ajas-nizam.carrd.co/
 - 🌐 https://ajasnizam.carrd.co/  
 
